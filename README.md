@@ -125,6 +125,8 @@ upd：所有优惠码目测是不限时间，但是每个人每个优惠码只�
 
 以上内容摘自维基百科。
 
+对这方面不是很了解，只是放几个上来坐镇。
+
 ### [Surfshark](https://surfshark.com/zh)
 
 ### [ExpressVPN](https://www.expressvpn.com/)
