@@ -98,6 +98,18 @@ upd：所有优惠码目测是不限时间，但是每个人每个优惠码只�
 
 [官网](https://waitu.asia/)
 
+### AmyTelecom 按摩院
+
+和花云，Imm，ytoo 几家体验比较像，测速和奶昔，Imm 有点像，都是一片红，速度很好，价格稍微便宜于 Imm，体验感觉差不多，地区基本都是五常，没有西数多，但是也很推荐。
+
+[官网](https://amytele.com)
+
+### ImmTelecom
+
+和同 Amy，略贵，不在讲述了。
+
+[官网]((https://immtel.com)
+
 ## <span id = "jump3">企业用户，或者对速度要求超高的用户</span>
 
 ### 奶昔 nexitally
